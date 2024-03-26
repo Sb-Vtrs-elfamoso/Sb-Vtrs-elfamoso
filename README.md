@@ -2,7 +2,7 @@
 
 ## I'm an apprentice data scientist at Airbus and a student in third year (M2) at ENSEEIHT (École National Supérieure d’Électrotechnique, d’Électronique, d’Informatique, d’Hydraulique et de Télécommunications) and INSA Toulouse (Institut national des sciences appliquées) in modelisation and artificial intelligence.
 
-- 🔭 I’m currently working on **adding value to detection flight test anomalies with data science.**
+- 🔭 I’m currently working on **adding value to flight test anomaly detection with data science.**
 
 - 🌱 I’m currently learning **advanced concepts of deep learning**
 
