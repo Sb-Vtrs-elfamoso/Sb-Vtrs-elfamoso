@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **advanced concepts of deep learning**
 
-- 📫 How to reach me **sebastien.vosuter@airbus.com | sebastien.vouters@etu.inp-n7.fr**
+- 📫 How to reach me **sebastien.vouters@airbus.com | sebastien.vouters@etu.inp-n7.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
